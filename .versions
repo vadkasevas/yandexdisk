@@ -24,6 +24,7 @@ cfs:power-queue@0.0.1
 cfs:reactive-list@0.0.9
 cfs:reactive-property@0.0.4
 check@1.2.5
+chuangbo:cookie@1.1.0
 ddp@1.3.0
 ddp-client@2.0.0
 ddp-common@1.2.9
@@ -60,8 +61,8 @@ less@2.7.9
 livedata@1.0.18
 localstorage@1.1.1
 logging@1.1.17
-malibun23:stack@0.0.17
-malibun23:yandexdisk@0.0.1
+malibun23:stack@0.0.20
+malibun23:yandexdisk@0.0.4
 mdg:validation-error@0.2.0
 meteor@1.7.1
 meteor-base@1.1.0
@@ -88,6 +89,7 @@ retry@1.0.9
 routepolicy@1.0.12
 rzymek:moment-locale-ru@2.8.4
 service-configuration@1.0.11
+session@1.1.7
 sha@1.0.9
 spacebars@1.0.15
 spacebars-compiler@1.1.3
