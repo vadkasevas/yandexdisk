@@ -1,6 +1,6 @@
 Package.describe({
     name: 'malibun23:yandexdisk',
-    version: '0.0.4',
+    version: '0.0.6',
     summary: 'YandexDisk',
     git: '',
     documentation: 'README.md'
@@ -15,7 +15,7 @@ Package.onUse(function(api) {
     api.versionsFrom('1.2.1');
     api.use('ecmascript');
     api.use('underscore');
-    api.use('malibun23:stack@0.0.20');
+    api.use('malibun23:stack@0.0.25');
 
     api.addFiles(
         [
